@@ -1,0 +1,7 @@
+feedparser
+vaderSentiment
+spacy
+SpeechRecognition
+gTTS
+Flask
+pysqlite3 
